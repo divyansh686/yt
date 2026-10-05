@@ -1,0 +1,6 @@
+{
+  "name": "PhoneMove",
+  "description": "Seamlessly transfer photos, videos, contacts, and more between Android devices using a USB cable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
